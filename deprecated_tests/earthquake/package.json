@@ -15,7 +15,7 @@
     "http": "0.0.0",
     "johnny-five": "^0.11.1",
     "request": "^2.81.0",
-    "socket.io": "^2.0.1"
+    "socket.io": "^2.5.1"
   },
   "devDependencies": {
     "electron-rebuild": "^1.5.11"
